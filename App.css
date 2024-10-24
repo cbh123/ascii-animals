@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  padding: 20px;
+  min-height: 100vh;
+  background-color: #282c34;
+  color: white;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+.controls {
+  margin-bottom: 20px;
+}
+
+select {
+  padding: 8px 16px;
+  font-size: 16px;
+  border-radius: 4px;
+  background-color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.ascii-art {
+  display: inline-block;
+  background-color: #1a1d23;
+  padding: 20px;
+  border-radius: 8px;
+  font-family: monospace;
+  font-size: 16px;
+  white-space: pre;
+  text-align: left;
+}
